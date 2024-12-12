@@ -1,4 +1,4 @@
 # minglama-demo
 This is my first repository
 <br>
-Author : Mingma sherpa
+Author : Mingma (Lama sherpa)
